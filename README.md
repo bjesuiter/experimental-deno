@@ -4,6 +4,6 @@ A Repo for experimenting with deno and documenting best practices and use-case i
 ## Run demos
 
 ```
-# can also be called main.ts
-deno run folder/deno.ts
+# Note: the name main for the main script is purely developers choice
+deno run folder/main.ts
 ```
