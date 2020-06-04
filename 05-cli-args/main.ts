@@ -1,5 +1,4 @@
 #!/usr/bin/env -S deno run
-
 //  Example invocation: deno run 05-cli-args/main.ts --cheese --size small --extras 10
 
 import args from 'https://deno.land/x/args@2.0.0/wrapper.ts';
