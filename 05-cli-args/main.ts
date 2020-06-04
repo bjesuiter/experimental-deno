@@ -1,4 +1,4 @@
-#!/usr/bin/env deno
+#!/usr/bin/env -S deno run
 
 //  Example invocation: deno run 05-cli-args/main.ts --cheese --size small --extras 10
 
